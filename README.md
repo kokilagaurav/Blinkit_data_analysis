@@ -1,3 +1,4 @@
+<img width="1304" height="604" alt="Screenshot 2025-08-09 160840" src="https://github.com/user-attachments/assets/a6759e09-7ae7-4b77-a875-3e719cc5b6b3" />
 # Vrinda E-Commerce Store Data Analysis
 
 This project contains an analysis of the Vrinda E-Commerce Store's sales data for the year 2022 using Microsoft Excel.
